@@ -35,7 +35,7 @@ Jp = [Jxp 0 0;
      0  0 Jzp];
 
 syms r c 
-allo_mat = [   1 1 1 1;
+allocation_matrix = [   1 1 1 1;
              -r r r -r;
              r -r r -r;
              c c -c -c];
